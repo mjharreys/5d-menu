@@ -68,7 +68,8 @@ width: 340px;
 height: 268px;
 margin-top: 135px;
 left: 545px;
-position:absolute
+position:absolute;
+	
 
 }
 #rightline {
@@ -104,7 +105,7 @@ top: 304px;
     width: 50px;
     height: 50px;
     left: 400px;
-    top: 499px;
+    top: 483px;
 	overflow: inherit;
 
 }
@@ -131,4 +132,12 @@ top: 304px;
 		right-margin: 300px;
 		width: 651;
 		height: 114;
+}
+
+#final {
+align-content: center;
+	height: 80px;
+	width: 230px;
+	margin-left: 620px;
+	margin-top:40px; 
 }
